@@ -43,10 +43,11 @@ Valorizo simplicidade, confiabilidade e boas práticas na construção de softwa
 
 ### Interesses
 
-- Microservices architecture
-- OAuth2 / authentication systems
-- Observability (Prometheus / Grafana)
-- Distributed backend systems
+- Arquitetura de microsserviços e sistemas distribuídos
+- OAuth2 / sistemas de autenticação
+- APIs REST
+- Interfaces responsivas
+- Integração back-end / front-end
 
 ### Projetos
 
