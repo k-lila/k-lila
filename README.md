@@ -1,22 +1,14 @@
-# Hello, I'm Krishna 👋
-
 Backend developer focused on building reliable systems and distributed architectures.
 
 Currently working with **Java, Spring ecosystem, relational databases and microservices**.
 
 ---
 
-## 🧠 About Me
-
-* Backend Developer
-* Focus on **Java and distributed systems**
-* Experience with **REST APIs, authentication and microservices**
-* Interested in **system architecture, observability and scalable backend design**
+## Sobre
 
 ---
 
-## ⚙️ Technologies
-
+## Techs
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
@@ -31,7 +23,7 @@ Currently working with **Java, Spring ecosystem, relational databases and micros
 
 ---
 
-## 📌 Highlight Projects
+## Projetos
 
 ### Microservices User Platform
 
@@ -65,17 +57,11 @@ Backend application implementing persistence and business rules.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=default\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=k-lila\&show_icons=true\&theme=default\&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-lila\&layout=compact\&hide_border=true)
 
 </div>
-
----
-
-## 🔥 Contribution Activity
-
-![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME\&hide_border=true)
 
 ---
 
@@ -86,13 +72,6 @@ Backend application implementing persistence and business rules.
 
 ---
 
-## 🧭 Interests
-
-* Software architecture
-* Microservices
-* Observability (Prometheus / Grafana)
-* Scalable backend systems
+## Interesses
 
 ---
-
-<sub>Minimalist profile README focused on backend engineering.</sub>
