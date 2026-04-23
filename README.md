@@ -9,8 +9,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-lila&repo=user-service.github.io&theme=dark)](https://github.com/k-lila/user-service/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-lila&repo=user-service.github.io&theme=dark)](https://github.com/k-lila/user-service.github.io)
 
 ### Linguagens utilizadas
 
