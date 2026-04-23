@@ -19,6 +19,35 @@
   </a>
 </div>
 
+### Sobre
+
+Desenvolvedor full-stack com foco em back-end, atuando principalmente com Java e arquitetura de sistemas distribuídos.
+
+Despertam meu interesse a construção de aplicações completas — do front-end ao backend — com APIs bem estruturadas, autenticação segura e arquitetura clara.
+
+Valorizo simplicidade, confiabilidade e boas práticas na construção de software.
+
+### Main Stacks
+
+<div align="center">
+
+| Back-end | Front-end | Databases | Tools |
+|----------|-----------|-----------|-------|
+| Java | Javascript / Typescript | PostgreSQL | Git |
+| Spring Boot | React / Redux | MongoDB | Docker |
+| JPA / Hibernate | HTML / CSS | Redis | Swagger |
+| APIs REST / Microsserviços | Styled Components / Tailwind |  | Zipkin |
+| Python / Django |  |  | Maven / JUnit 5 |
+
+</div>
+
+### Interesses
+
+- Microservices architecture
+- OAuth2 / authentication systems
+- Observability (Prometheus / Grafana)
+- Distributed backend systems
+
 ### Projetos
 
 <div align="center">
