@@ -44,8 +44,7 @@ Valorizo simplicidade, confiabilidade e boas práticas na construção de softwa
 ### Interesses
 
 - Arquitetura de microsserviços e sistemas distribuídos
-- OAuth2 / sistemas de autenticação
-- APIs REST
+- Construção de APIs REST
 - Interfaces responsivas
 - Integração back-end / front-end
 
