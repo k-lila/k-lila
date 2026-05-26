@@ -11,11 +11,11 @@
 ### Detalhes
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-lila&layout=compact&theme=dark"/>
+  <a href="https://github.com/k-lila/github-readme-stats">
+    <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/top-langs/?username=k-lila&layout=compact&theme=dark"/>
   </a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=k-lila&show_icons=true&theme=dark"/>
+  <a href="https://github.com/k-lila/github-readme-stats">
+    <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api?username=k-lila&show_icons=true&theme=dark"/>
   </a>
 </div>
 
@@ -52,18 +52,18 @@ Valorizo simplicidade, confiabilidade e boas práticas na construção de softwa
 
 <div align="center">
   <a href="https://github.com/k-lila/user-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-lila&repo=user-service&theme=dark"/>
+  <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/pin/?username=k-lila&repo=user-service&theme=dark"/>
   </a>
   <a href="https://github.com/k-lila/react_synth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-lila&repo=react_synth&theme=dark"/>
+  <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/pin/?username=k-lila&repo=react_synth&theme=dark"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/k-lila/crud_jdbc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-lila&repo=crud_jdbc&theme=dark"/>
+  <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/pin/?username=k-lila&repo=crud_jdbc&theme=dark"/>
   </a>
   <a href="https://github.com/k-lila/mondrianer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=k-lila&repo=mondrianer&theme=dark"/>
+  <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/pin/?username=k-lila&repo=mondrianer&theme=dark"/>
   </a>
 </div>
 <div>
