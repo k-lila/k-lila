@@ -66,6 +66,16 @@ Valorizo simplicidade, confiabilidade e boas práticas na construção de softwa
   <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/pin/?username=k-lila&repo=mondrianer&theme=dark"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/k-lila/django_rest">
+  <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/pin/?username=k-lila&repo=django_rest&theme=dark"/>
+  </a>
+  <a href="https://github.com/k-lila/socialmedia">
+  <img src="https://github-readme-stats-gamma-ashy-24.vercel.app/api/pin/?username=k-lila&repo=socialmedia&theme=dark"/>
+  </a>
+</div>
+
+
 <div>
   <h2>
     "Todos os homens têm, por natureza, desejo de conhecer"  
